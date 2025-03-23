@@ -4,7 +4,7 @@
 
 ## 데이터 다운로드
 주요 데이터셋(GeoPackage 형식, 66MB)은 아래 링크에서 다운로드하실 수 있습니다.
-[Download GPKG file from Google Drive]([https://drive.google.com/file/d/1AbCDEfgHIJklMNOPQRstuVWXYZ/view?usp=sharing](https://drive.google.com/file/d/1GfRtbWcl6iTL9EFdhAb89-TKLTYWUko2/view?usp=drive_link))
+[Download GPKG file from Google Drive](https://drive.google.com/file/d/1GfRtbWcl6iTL9EFdhAb89-TKLTYWUko2/view?usp=drive_link)
 
 ## 파일 설명
 - 포맷: GeoPackage (.gpkg)
