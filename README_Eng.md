@@ -4,7 +4,7 @@ This repository provides supplementary files and documentation for the research 
 
 ## Data Download
 The main dataset (GeoPackage format, 66MB) can be downloaded from the link below:
-[Download GPKG file from Google Drive]([https://drive.google.com/file/d/1AbCDEfgHIJklMNOPQRstuVWXYZ/view?usp=sharing](https://drive.google.com/file/d/1GfRtbWcl6iTL9EFdhAb89-TKLTYWUko2/view?usp=drive_link))
+[Download GPKG file from Google Drive](https://drive.google.com/file/d/1GfRtbWcl6iTL9EFdhAb89-TKLTYWUko2/view?usp=drive_link)
 
 ## Description
 - Format: GeoPackage (.gpkg)
