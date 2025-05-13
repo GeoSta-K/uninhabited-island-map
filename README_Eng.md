@@ -18,4 +18,4 @@ The main dataset (GeoPackage format, 66MB) can be downloaded from the link below
 
 ##Citation
 If you use this dataset, please cite the following article:
-> Park, J.-C., Kim, S.-H., & Kim, W.-Y. (2025). "A Study on Improving Geographic Information of Uninhabited Islands through Polygon-Based Data Construction". Journal of the Korean Cartographic Association.
+> Park, J., Kim, S., & Kim, W.-Y. (2025). "A Study on Improving Geographic Information of Uninhabited Islands through Polygon-Based Data Construction". Journal of the Korean Cartographic Association 25(1). p.23-36. https://doi.org/10.16879/jkca.2025.25.1.023.
